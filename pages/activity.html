@@ -1,0 +1,16 @@
+---
+layout: default
+title: Activities
+permalink: /activities/
+weight: 5
+---
+
+<div class="card-group mt-2">
+
+  {% for post in site.posts %}
+    {%- if post.type == 'activity' -%}
+      {% include activity-post-card.html %}
+    {%- endif -%}
+  {% endfor %}
+  
+</div>

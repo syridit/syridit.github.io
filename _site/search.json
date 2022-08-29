@@ -41,6 +41,38 @@
     } ,
   
     {
+      "title"    : "Inspiring Bangladesh",
+      "category" : "",
+      "tags"     : "Nonprofit Social Organization",
+      "url"      : "https://www.facebook.com/Inspiringbangladesh1",
+      "date"     : "2018-04-06 00:00:00 +0600"
+    } ,
+  
+    {
+      "title"    : "Murchhona::BUET",
+      "category" : "",
+      "tags"     : "Music, Club",
+      "url"      : "https://www.facebook.com/murchhona.buet",
+      "date"     : "2018-04-05 00:00:00 +0600"
+    } ,
+  
+    {
+      "title"    : "BUET Film Society",
+      "category" : "",
+      "tags"     : "Film, Club",
+      "url"      : "https://www.facebook.com/bfs.buet",
+      "date"     : "2018-04-04 00:00:00 +0600"
+    } ,
+  
+    {
+      "title"    : "The Last Pinch - Before Death",
+      "category" : "",
+      "tags"     : "Band",
+      "url"      : "https://www.facebook.com/thelastpinch",
+      "date"     : "2018-04-01 00:00:00 +0600"
+    } ,
+  
+    {
       "title"    : "GitHub Flow",
       "category" : "",
       "tags"     : "GitHub, Workflow",
@@ -70,14 +102,6 @@
       "tags"     : "Version Control",
       "url"      : "/blog/what-is-version-control",
       "date"     : "2016-02-09 00:00:00 +0600"
-    } ,
-  
-    {
-      "title"    : "How to undo your git failure?",
-      "category" : "",
-      "tags"     : "External Post, Git",
-      "url"      : "https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74",
-      "date"     : "2015-09-25 00:00:00 +0600"
     } 
   
 ]

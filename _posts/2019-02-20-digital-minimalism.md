@@ -1,4 +1,5 @@
 ---
+type: post
 title: Digital Minimalism
 tags: [Social Media, Minimalism, Technology]
 style: 

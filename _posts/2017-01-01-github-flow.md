@@ -1,4 +1,5 @@
 ---
+type: post
 title: GitHub Flow
 tags: [GitHub, Workflow]
 style: fill

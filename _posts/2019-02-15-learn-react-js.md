@@ -1,4 +1,5 @@
 ---
+type: post
 title: Learn React.js in 5 minutes
 tags: [React, JavaScript, Web Development]
 style: border
