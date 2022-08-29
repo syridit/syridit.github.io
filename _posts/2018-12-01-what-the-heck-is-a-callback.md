@@ -1,4 +1,5 @@
 ---
+type: post
 title: What the heck is a Callback?
 tags: [JavaScript, Nodejs, Web Development]
 style: fill

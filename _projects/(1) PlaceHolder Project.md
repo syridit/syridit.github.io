@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: GRP – Bangladesh e-Government ERP Project
+tools: [spring-boot, postgresql]
+image: ../assets/images/grp.png
+description: Designed and developed Meeting Management, Leave Management, Training Management and HRM modules of a customized ERP system for Bangladesh Government, named GRP (Government Resource Planning) project from scratch. These modules are live and being used by different offices of Planning Ministry as well as ICT Ministry of Bangladesh Government.
+external_url: https://www.grp.gov.bd
 ---

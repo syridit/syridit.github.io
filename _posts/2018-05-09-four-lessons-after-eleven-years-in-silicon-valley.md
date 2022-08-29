@@ -1,4 +1,5 @@
 ---
+type: post
 title: 4 Lessons After 11 Years in Silicon Valley
 tags: 
 style: fill

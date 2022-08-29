@@ -1,4 +1,5 @@
 ---
+type: post
 title: A better Hello World
 tags: [Software Development]
 style: fill

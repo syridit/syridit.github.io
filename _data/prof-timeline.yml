@@ -1,0 +1,34 @@
+- title: Kona Software Lab Limited
+  location: Dhaka, Bangladesh
+  logo: ../assets/images/ksl.png
+  url: https://konasl.com
+  designation: 
+    - title: Software Engineer (L2)
+      type: Full-time
+      from: August 2021
+      to: Present
+      description: 
+        - Developing several components of a micro-service based application which is basically a <strong><em style="color:blue">P2P Cryptocurrency trading platform.</em></strong>
+        - Designed the whole transaction management and clearing system of the trading platform.
+        - Managed Junior developers in the Sprints and Planned the workflow of major features of this project.
+    - title: Engineer Level - 1
+      type: Full-time
+      from: October 2020
+      to: July 2021
+      description: 
+        - Worked on the backend of a POC project to develop a Mobile Financial System named <strong><em style="color:blue">Finnovation</em></strong>. Designed and Developed Clearing System of the Project as well as working on other features.
+        - Developed and Managed backend of a live application named <strong><em style="color:blue">MBL Rainbow</em></strong>, a mobile app of a major local Bank named <a href="https://www.mblbd.com" target="_blank">Mercantile Bank Ltd.</a>
+        - Worked on new features of another live application named <strong><em style="color:blue">NexusPay</em></strong>, a mobile app of another major local Bank named <a href="https://www.dutchbanglabank.com" target="_blank">Dutch Bangla Bank Ltd.</a> Also integrated <a href="../assets/bangla-qr.pdf" target="_blank">Bangla QR</a> accorging to the guideline of <a href="https://www.bb.org.bd/en/index.php" target="_blank">Bangladesh Bank</a>
+
+- title: CoKreates Limited
+  location: Dhaka, Bangladesh
+  logo: ../assets/images/ckr.png
+  url: http://cokreates.com
+  designation:
+    - title: Software Developer
+      type: Full-time
+      from: May 2019
+      to: October 2020
+      description: 
+        - Designed and developed Meeting Management, Leave Management, Training Management and HRM modules of a customized <strong>ERP system for Bangladesh Government</strong>, named <a href="https://grp.gov.bd" target="_blank">GRP (Government Resource Planning) project</a> from scratch. These modules are live and being used by different offices of Planning Ministry as well as ICT Ministry of Bangladesh Government.
+        - Adapted Complete Agile Development and incorporated new requirements given by the client on ad-hoc basis.

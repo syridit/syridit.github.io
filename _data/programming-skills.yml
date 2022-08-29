@@ -1,11 +1,30 @@
-# - name: Java
-#   percentage: 90
-#   color: danger
+- name: Java, Python, Javascript, HTML, CSS, Bash, C++, C
+  category: Language
+  color: danger
 
-# - name: Python
-#   percentage: 80
-#   color:
+- name: Spring Boot, Spring MVC, Spring Data JPA, React, Junit, Mockito
+  category: Framework & Libraries
+  color: dark
 
-# - name: C++
-#   percentage: 70
-#   color: secondary
+- name: Kafka, RabbitMQ
+  category: Messaging Services
+  color: secondary
+
+- name: Oracle, PostgreSQL, MongoDB, Redis
+  category: Database and Caching
+  color: info
+
+
+- name: Git, Maven, Gradle, Rundeck, Jira, Trello
+  category: VCS, Build Tools and Software
+  color: success
+
+
+- name: Nginx, Tomcat
+  category: Web Server
+  color: warning
+
+
+- name: Waterfall, Incremental and Agile
+  category: Development Models
+  color: primary

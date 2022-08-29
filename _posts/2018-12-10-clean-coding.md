@@ -1,4 +1,5 @@
 ---
+type: post
 title: Clean Coding
 tags: [Software Development, Clean Code]
 style: fill

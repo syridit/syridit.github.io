@@ -1,4 +1,5 @@
 ---
+type: post
 title: What is version control?
 tags: [Version Control]
 style: fill
