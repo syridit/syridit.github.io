@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "How this site was built",
+      "category" : "",
+      "tags"     : "Jekyll, Github Pages, Personal Site",
+      "url"      : "/blog/start",
+      "date"     : "2022-08-30 00:00:00 +0600"
+    } ,
+  
+    {
       "title"    : "Digital Minimalism",
       "category" : "",
       "tags"     : "",
@@ -70,14 +78,6 @@
       "tags"     : "Band",
       "url"      : "https://www.facebook.com/thelastpinch",
       "date"     : "2018-04-01 00:00:00 +0600"
-    } ,
-  
-    {
-      "title"    : "Github Flow",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/blog/github-flow",
-      "date"     : "2017-01-01 00:00:00 +0600"
     } ,
   
     {
