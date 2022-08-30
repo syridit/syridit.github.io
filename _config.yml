@@ -28,7 +28,6 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Sadman Yasar Ridit
-  # image             : https://i.imgur.com/uyDNQnn.jpg
   image             : assets/images/me.jpeg
   # behance           : your_username
 # dribbble          : your_username
@@ -42,7 +41,7 @@ author:
   # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
-  stackoverflow     : devreddit
+  stackoverflow     : 16375479/devreddit
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
   # twitter           : your_username
