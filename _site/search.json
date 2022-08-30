@@ -3,15 +3,15 @@
     {
       "title"    : "Digital Minimalism",
       "category" : "",
-      "tags"     : "Social Media, Minimalism, Technology",
+      "tags"     : "",
       "url"      : "/blog/digital-minimalism",
       "date"     : "2019-02-20 00:00:00 +0600"
     } ,
   
     {
-      "title"    : "Learn React.js in 5 minutes",
+      "title"    : "Learn React Js",
       "category" : "",
-      "tags"     : "React, JavaScript, Web Development",
+      "tags"     : "",
       "url"      : "/blog/learn-react-js",
       "date"     : "2019-02-15 00:00:00 +0600"
     } ,
@@ -19,21 +19,21 @@
     {
       "title"    : "Clean Coding",
       "category" : "",
-      "tags"     : "Software Development, Clean Code",
+      "tags"     : "",
       "url"      : "/blog/clean-coding",
       "date"     : "2018-12-10 00:00:00 +0600"
     } ,
   
     {
-      "title"    : "What the heck is a Callback?",
+      "title"    : "What The Heck Is A Callback",
       "category" : "",
-      "tags"     : "JavaScript, Nodejs, Web Development",
+      "tags"     : "",
       "url"      : "/blog/what-the-heck-is-a-callback",
       "date"     : "2018-12-01 00:00:00 +0600"
     } ,
   
     {
-      "title"    : "4 Lessons After 11 Years in Silicon Valley",
+      "title"    : "Four Lessons After Eleven Years In Silicon Valley",
       "category" : "",
       "tags"     : "",
       "url"      : "/blog/four-lessons-after-eleven-years-in-silicon-valley",
@@ -73,33 +73,33 @@
     } ,
   
     {
-      "title"    : "GitHub Flow",
+      "title"    : "Github Flow",
       "category" : "",
-      "tags"     : "GitHub, Workflow",
+      "tags"     : "",
       "url"      : "/blog/github-flow",
       "date"     : "2017-01-01 00:00:00 +0600"
     } ,
   
     {
-      "title"    : "A better Hello World",
+      "title"    : "A Better Hello World",
       "category" : "",
-      "tags"     : "Software Development",
+      "tags"     : "",
       "url"      : "/blog/a-better-hello-world",
       "date"     : "2016-07-23 00:00:00 +0600"
     } ,
   
     {
-      "title"    : "Do not go gentle into that good night",
+      "title"    : "Do Not Go Gentle Into That Good Night",
       "category" : "",
-      "tags"     : "Poetry",
+      "tags"     : "",
       "url"      : "/blog/do-not-go-gentle-into-that-good-night",
       "date"     : "2016-04-17 00:00:00 +0600"
     } ,
   
     {
-      "title"    : "What is version control?",
+      "title"    : "What Is Version Control",
       "category" : "",
-      "tags"     : "Version Control",
+      "tags"     : "",
       "url"      : "/blog/what-is-version-control",
       "date"     : "2016-02-09 00:00:00 +0600"
     } 

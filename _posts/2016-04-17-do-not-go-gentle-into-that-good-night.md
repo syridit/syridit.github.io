@@ -1,4 +1,4 @@
----
+<!-- ---
 type: post
 title: Do not go gentle into that good night
 tags: [Poetry]
@@ -38,4 +38,4 @@ Do not go gentle into that good night.
 Rage, rage against the dying of the light.  
 
 
-— _Dylan Thomas, 1914 - 1953_
+— _Dylan Thomas, 1914 - 1953_ -->
