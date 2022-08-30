@@ -1,4 +1,4 @@
----
+<!-- ---
 type: post
 title: 4 Lessons After 11 Years in Silicon Valley
 tags: 
@@ -45,4 +45,4 @@ Of course, if you’re not accustomed to wielding this power—or asking for it 
 
 This one is simple, but important. We all know how critical it is to build strong relationships inside a company, but it wasn’t until I moved on from my first startup job that I realized how incredibly valuable co-worker relationships become after you leave. After years together in the trenches, former co-workers know your strengths and can call you on your bullshit. And once you’re no longer co-workers, all those pesky work-related complications and politics disappear.
 
-Your non-co-worker friends will of course cheer you on, but if you’re in a rut professionally or trying to figure out if you’re the one being difficult in a dysfunctional work relationship, no one can help you troubleshoot like your former colleagues. Same if you need a substantive ego boost. And because your relationship started in a work context, it’s also much easier to be transactional, whether that means asking for intros, references, funding, or feedback.
+Your non-co-worker friends will of course cheer you on, but if you’re in a rut professionally or trying to figure out if you’re the one being difficult in a dysfunctional work relationship, no one can help you troubleshoot like your former colleagues. Same if you need a substantive ego boost. And because your relationship started in a work context, it’s also much easier to be transactional, whether that means asking for intros, references, funding, or feedback. -->

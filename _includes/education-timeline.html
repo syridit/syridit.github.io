@@ -1,0 +1,23 @@
+
+<div class="col mt-4">
+    <div class="timeline-body bg-themed">
+      {% for item in site.data.edu-timeline %}
+        <div class="timeline-item">
+          <div class="content">
+            <h3><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></h3>
+            <small class="text-muted mb-2">
+                <i class="fas fa-map-marker-alt"></i> {{ item.location }}
+            </small>
+            <img src="{{ item.logo }}" width="200" class="circle-logo wow animated zoomIn" data-wow-delay=".1s">
+            {% for designation in item.designation %}
+            <div class="content">
+                <h5>{{ designation.title }}</h5>
+                <h6 class="date">{{ designation.from }} — {{ designation.to }}</h6>
+                <p>{{ designation.description }}</p>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>

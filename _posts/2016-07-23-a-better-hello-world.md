@@ -1,4 +1,4 @@
----
+<!-- ---
 type: post
 title: A better Hello World
 tags: [Software Development]
@@ -49,4 +49,4 @@ This simple example demonstrates a few more things than printing strings:
 - How to use variables
 - The naming convention for functions (camelCase versus snake_case)
 - String concatenation
-- Comments
+- Comments -->

@@ -4,6 +4,26 @@ title: Blog
 weight: 6
 permalink: /blog/
 ---
+{%- assign post_count  = '0' -%}
+{% include blog-search.html %}
+<div class="card-group mt-2">
+    
+    {% for post in site.posts %}
+        {%- if post.type == 'post' -%}
+            {% include blog-post-card.html %}
+            {%- assign post_count  = '1' -%}
+        {%- endif -%}
+    {% endfor %}
+</div>
+<br>
+<br>
+{%- if post_count == '0' -%}
+<div class="row justify-content-center align-items-center p-4">
+    <div class="col-lg-4 col-md-6 text-center mt-4">
+        <p class="text wow animated zoomIn" data-wow-delay=".15s">No Blog Post Available</p>
+    </div>
+</div>
+<br>
+<br>
+{%- endif -%}
 
-{% include blog/search.html %}
-{% include blog/index.html %}

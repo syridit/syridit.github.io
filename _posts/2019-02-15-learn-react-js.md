@@ -1,4 +1,4 @@
----
+<!-- ---
 type: post
 title: Learn React.js in 5 minutes
 tags: [React, JavaScript, Web Development]
@@ -221,4 +221,4 @@ class Hello extends React.Component {
 
 The **updateMessage** method then calls **this.setState()** which changes the `this.state.message` value. And when we click the button, here’s how that will play out:
 
-Congrats! You now have a very basic understanding of the most important concepts in React.
+Congrats! You now have a very basic understanding of the most important concepts in React. -->

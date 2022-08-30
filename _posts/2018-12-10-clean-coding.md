@@ -1,4 +1,4 @@
----
+<!-- ---
 type: post
 title: Clean Coding
 tags: [Software Development, Clean Code]
@@ -100,4 +100,4 @@ In summary, make sure to remember and apply these four “clean code” principl
 1. **“If it isn’t tested, it’s broken”**
 1. **Choose meaningful names**
 1. **Classes and functions should be small and obey the Single Responsibility Principle (SRP)**
-1. **Functions should have no side effects**
+1. **Functions should have no side effects** -->
