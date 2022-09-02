@@ -1,4 +1,4 @@
----
+<!-- ---
 type: post
 title: How this site was built
 tags: [Jekyll, Github Pages, Personal Site]
@@ -47,7 +47,7 @@ Some important things:
 - Take a look at the `GemFile`. It will be required to deploy the site.
 - Always edit and run locally to check the output.
 
-If you change the main `_config.yml` file, you need to serve the site again:
+If you change the main `_config.yml` file, you need to serve the site again.
 
 ```
 bundle exec jekyll serve
@@ -80,4 +80,4 @@ After linking, go to your repository settings. Find the Github pages section and
 It might take 20-30 minutes for Github to find the DNS the deploy your site to the set address.
 
 #### That’s it. It went live.
-
+ -->
