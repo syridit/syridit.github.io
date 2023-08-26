@@ -3,15 +3,25 @@
   logo: ../assets/images/ksl.png
   url: https://konasl.com
   designation: 
-    - title: Software Engineer (L2)
+    - title: Senior Software Engineer
+      type: Full-time
+      from: January 2023
+      to: Present
+      description: 
+        - Designed and implemented an application level multi-tenant Investment platform where the LPs and GPs of South Korea can digitize their existing paperworks as well as conduct and manage their future investments.
+        - Implemented Multi-tier Access Management System, Approval Management system, Data Access Level Management with dynamic scaling capability for any SaaS.
+        - Incorporating multi-lateral trading on digital security tokens in the trading platform (Upgrading Crypto trading platform to Token Trading Platform) to support 2 different ways of trading minted tokens in the system.
+        - Modified existing fiat payment systems to virtual fiat wallet and e-money to execute 100% payment in the trading platform with full control.
+        - Implemented clearing and settlement process for the realization of fiat amounts between the system and other parties as well as ensuring the non-existence of anomaly in the platform's accounting system.
+    - title: Software Engineer II
       type: Full-time
       from: August 2021
-      to: Present
+      to: December 2022
       description: 
         - Developing several components of a micro-service based application which is basically a <strong><em style="color:blue">P2P Cryptocurrency trading platform.</em></strong>
         - Designed the whole transaction management and clearing system of the trading platform.
         - Managed Junior developers in the Sprints and Planned the workflow of major features of this project.
-    - title: Engineer Level - 1
+    - title: Software Engineer I
       type: Full-time
       from: October 2020
       to: July 2021
@@ -19,6 +29,21 @@
         - Worked on the backend of a POC project to develop a Mobile Financial System named <strong><em style="color:blue">Finnovation</em></strong>. Designed and Developed Clearing System of the Project as well as working on other features.
         - Developed and Managed backend of a live application named <strong><em style="color:blue">MBL Rainbow</em></strong>, a mobile app of a major local Bank named <a href="https://www.mblbd.com" target="_blank">Mercantile Bank Ltd.</a>
         - Worked on new features of another live application named <strong><em style="color:blue">NexusPay</em></strong>, a mobile app of another major local Bank named <a href="https://www.dutchbanglabank.com" target="_blank">Dutch Bangla Bank Ltd.</a> Also integrated <a href="../assets/bangla-qr.pdf" target="_blank">Bangla QR</a> accorging to the guideline of <a href="https://www.bb.org.bd/en/index.php" target="_blank">Bangladesh Bank</a>
+
+- title: NestGo
+  location: Remote (USA)
+  logo: ../assets/images/nestgo.png
+  url: https://www.nestgo.io
+  designation:
+    - title: Software Developer (Freelancer)
+      type: Part-time
+      from: November 2022
+      to: February 2023
+      description: 
+        - Mastered e2e testing using Cypress in a open source project - 'FloJoy', a visual no-code tool for python scripts, and included 75% of total test cases.
+        - Fixed some major bugs produced due to some corner cases that were not handled and resulted in CI issues in Github actions for the new PRs, which enhanced the PR completeness to 100%
+        - Managed Docker Compatibility of the features as there was a few docker connectivity issues. Resolved them all to make sure that 100% similarity is maintained in both docker based deployment and local run.
+        - Introduced Object Detection Algorithm in the no code flow to increase the functionality and value of the software around 40%
 
 - title: CoKreates Limited
   location: Dhaka, Bangladesh
